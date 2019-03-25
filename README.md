@@ -1,4 +1,4 @@
-# 👨‍💻 pareto-law-in-frontend
+# 👨‍💻 Pareto law in frontend
 Pareto's law applied in Frontend development. **Learn the 20% that gives you the 80% that's the rule.**
 
 # 📝 HTML
